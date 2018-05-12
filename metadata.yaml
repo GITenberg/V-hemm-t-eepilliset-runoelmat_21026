@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2842
     wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21026#V-hemm-t-eepilliset-runoelmat
 gutenberg_issued: '2007-04-10'
 gutenberg_type: Text
 identifiers:
